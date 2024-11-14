@@ -1,0 +1,73 @@
+# Ignore Maven build directories
+target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore NetBeans project files
+nbproject/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+# Ignore Maven build directories
+target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore NetBeans project files
+nbproject/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+# Ignore Maven build directories
+target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore NetBeans project files
+nbproject/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
